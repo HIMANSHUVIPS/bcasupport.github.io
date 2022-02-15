@@ -1,0 +1,66 @@
+
+.navbar{
+    margin-top: 10px;
+}
+.nav-left{
+    margin-left: 538px;
+}
+#navbarDropdown{
+    color: rgb(0, 0, 0);
+    margin-left: 25px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder; 
+} 
+#support{
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn{
+    margin-left: 25px;
+}
+.left{
+ margin-left: 50px;   
+}
+.leftt{
+    margin-left: 30px;
+}
+.nav-color{
+    color: black;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.contact-index{
+    text-decoration: none;
+    color: white;
+}
+.contact-index:hover{
+    color: red;
+    font-weight: bold;
+    transition: ease-out;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+.main-head{
+    font-size: 50px;
+    font-weight:900;
+}
+.card-img{
+    height: 50px;
+}
+.photo{
+    height: 200px;
+}
+.card-body{
+    background-color: lightblue;
+}
+.margin{
+    margin-top: 30px;
+}
+
+

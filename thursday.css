@@ -1,0 +1,54 @@
+.navbar{
+    margin-top: 10px;
+}
+.nav-left{
+    margin-left: 622px;
+}
+#navbarDropdown{
+    color: rgb(0, 0, 0);
+    margin-left: 25px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder; 
+}
+.contact-index{
+    text-decoration: none;
+    color: white;
+}
+.contact-index:hover{
+    color: red;
+    font-weight: bold;
+    transition: ease-out;
+}
+.btn{
+    margin-left: 25px;
+}
+.left{
+ margin-left: 50px;   
+}
+.leftt{
+    margin-left: 30px;
+}
+.nav-color{
+    color: black;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+/*.table{
+    justify-items: center;
+    justify-content: center;
+}*/
+.day{
+    font-size: 40px;
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
